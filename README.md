@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with climate change using tech
 - 💬 Ask me about anything, seriously, anything
 - 📫 How to reach me: dema.atra1@gmail.com
-- ⚡ Fun fact: geek, veggie
+- ⚡ Crypto asset investor 🌐 , content creator 🎥 and vegetarian 🍀.
