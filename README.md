@@ -8,7 +8,8 @@
 
 <br />
 
-- ⚡ Crypto asset investor 🌐 , content creator 🎥 and vegetarian 🍀
+- ⚡ Crypto asset investor 🌐 , content creator 🎥 and vegetarian. 🍀
+- 🔭 I’m currently serching for my first job in development area!
 - 🌱 I’m currently learning React and Truffle (Smart contracts development)
 
 <br />
@@ -26,7 +27,3 @@
   <a href="https://www.instagram.com/demetrioatra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/demetrioatra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<br />
-
-![Snake animation](https://github.com/DemetrioAtra/DemetrioAtra/blob/output/github-contribution-grid-snake.svg)
