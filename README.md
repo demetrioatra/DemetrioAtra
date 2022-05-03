@@ -1,13 +1,5 @@
 ### Howdy! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Solidity" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
-</div>
-
 <br />
 
 - 🔭 I’m currently serching for my first job in development area!
@@ -20,6 +12,16 @@
   <a href="https://github.com/DemetrioAtra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemetrioAtra&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemetrioAtra&layout=compact&langs_count=7&theme=light"/>
+</div>
+
+<br />
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Solidity" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
 </div>
 
 <br />
