@@ -1,7 +1,5 @@
 ### Howdy! 👋
 
-<br />
-
 - 🔭 I’m currently serching for my first job in development area!
 - 🌱 I’m currently learning React and Truffle (Smart contracts development)
 - ⚡ Crypto asset investor 🌐 , content creator 🎥 and vegetarian. 🍀
