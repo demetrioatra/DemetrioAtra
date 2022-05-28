@@ -1,7 +1,7 @@
 ### Howdy! 👋
 
 - ⚡ Crypto asset investor 🌐 , content creator 🎥 and vegetarian. 🍀
-- 🌱 I’m currently learning React and Truffle (Smart contracts development)
+- 🌱 I’m currently learning Cloud Systems(AWS) and smart contracts development with Truffle Framework and Solidity.
 
 <br />
 
