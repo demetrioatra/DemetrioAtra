@@ -1,6 +1,4 @@
-### Howdy! 👋
-
-- 🌱 I’m currently learning Cloud Systems(AWS) and smart contracts development with Truffle Framework and Solidity.
+### Olá! 👋
 
 <br>
 
